@@ -79,7 +79,7 @@
     "react-infinite-scroll-hook": "^4.1.1",
     "react-router-dom": "6.22.1",
     "swr": "^2.2.4",
-    "typescript": "^5.2.2",
+    "typescript": "^5.9.3",
     "typescript-eslint": "^8.24.1",
     "usehooks-ts": "^2.14.0",
     "vite": "^5.1.4",
